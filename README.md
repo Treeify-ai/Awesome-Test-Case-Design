@@ -25,6 +25,10 @@ Our **AI-Powered Test Case Generation Tool** simplifies the entire workflow, fro
 
 💡 This repository complements the tool by offering learning resources to help you understand the principles and techniques behind test case design.
 
+## 🌟 Join Our Community
+💬 Join the conversation, share your experiences, and connect with fellow QA professionals!  
+We’d love to see you in our **Discord community**: [Click here to join!](https://discord.gg/your-discord-link)
+
 ---
 
 ## 📖 Table of Contents
@@ -146,12 +150,6 @@ Stay ahead with the latest in testing:
 - **[The Future of Test Case Design](11.Testing%20Trends%20and%20Innovations/The%20Future%20of%20Test%20Case%20Design.pdf)**  
 - **[AI and Predictive Analytics in QA](11.Testing%20Trends%20and%20Innovations/AI%20and%20Predictive%20Analytics%20in%20QA.pdf)**  
 - **[Emerging Techniques in Combinatorial Testing](11.Testing%20Trends%20and%20Innovations/Emerging%20Techniques%20in%20Combinatorial%20Testing.pdf)**  
-
----
-
-## 🌟 Join Our Community
-💬 Join the conversation, share your experiences, and connect with fellow QA professionals!  
-We’d love to see you in our **Discord community**: [Click here to join!](https://discord.gg/your-discord-link)
 
 ---
 
