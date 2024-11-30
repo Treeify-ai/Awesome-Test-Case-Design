@@ -13,26 +13,23 @@ Our mission is to empower the QA community with actionable knowledge and resourc
 <img src="images/logo.jpg" alt="Test Case Design" width="200" >
 </div>
 
-Looking to streamline your test case creation process?  
-Our **AI-Powered Test Case Generation Tool** simplifies the entire workflow, from requirement analysis to comprehensive test case creation on an **editable mind map**.
+Simplify test case creation with **AI-Powered Test Case Generation Tool**. From requirement analysis to test case generation, Treeify helps you streamline the entire process on an **editable mind map**.
 
-✨ **Key Benefits**:
-- Save time with automated test case generation.
-- Achieve high test coverage with expert-driven logic.
-- Customize test cases for your unique needs.
+### ✨ Key Benefits:
+- **Automated test case generation**
+- **High test coverage** with expert logic
+- **Customizable** to your project needs
 
-🔗 **Try Treeify and Experience the Future of Test Case Design** – [Start Here](https://treeifyai.com)
+🔗 [Try Treeify Now](https://treeifyai.com) – Start building smarter test cases today.
+
+### 💬 Join the conversation with QA professionals:
+- **[Join our Discord](https://discord.gg/cQB9QDYkt7)** – Chat with QA experts and share tips.
+- **Follow us on Social Media**:
+  - **[Medium](https://medium.com/@lingjt001)** – Read the latest insights on test case design.
+  - **[Twitter](https://x.com/Archerjsjdjsk)** – Stay updated with tips and announcements.
+  - **[Reddit](https://www.reddit.com/r/TreeifyAI/)** – Join discussions and community Q&A.
 
 💡 This repository complements the tool by offering learning resources to help you understand the principles and techniques behind test case design.
-
-💬 **Join the conversation, share your experiences, and connect with fellow QA professionals!**
-
-We’d love to see you in our **Discord community**: [Click here to join!](https://discord.gg/cQB9QDYkt7)
-
-You can also engage with us on social media to stay up-to-date with the latest news and discussions:
-- **[Medium](https://medium.com/@lingjt001)** – Read our latest posts on test case design and QA best practices.
-- **[Twitter](https://x.com/Archerjsjdjsk)** – Follow us for regular updates, tips, and community interactions.
-- **[Reddit](https://www.reddit.com/r/TreeifyAI/)** – Join the conversation in our community for Q&A, insights, and discussions.
 
 ---
 
