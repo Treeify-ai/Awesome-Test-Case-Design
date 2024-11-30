@@ -25,9 +25,14 @@ Our **AI-Powered Test Case Generation Tool** simplifies the entire workflow, fro
 
 💡 This repository complements the tool by offering learning resources to help you understand the principles and techniques behind test case design.
 
-## 🌟 Join Our Community
-💬 Join the conversation, share your experiences, and connect with fellow QA professionals!  
-We’d love to see you in our **Discord community**: [Click here to join!](https://discord.gg/your-discord-link)
+💬 **Join the conversation, share your experiences, and connect with fellow QA professionals!**
+
+We’d love to see you in our **Discord community**: [Click here to join!](https://discord.gg/cQB9QDYkt7)
+
+You can also engage with us on social media to stay up-to-date with the latest news and discussions:
+- **[Medium](https://medium.com/@lingjt001)** – Read our latest posts on test case design and QA best practices.
+- **[Twitter](https://x.com/Archerjsjdjsk)** – Follow us for regular updates, tips, and community interactions.
+- **[Reddit](https://www.reddit.com/r/TreeifyAI/)** – Join the conversation in our community for Q&A, insights, and discussions.
 
 ---
 
