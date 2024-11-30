@@ -14,14 +14,14 @@ Our mission is to empower the QA community with actionable knowledge and resourc
 </div>
 
 Looking to streamline your test case creation process?  
-Our **AI-Powered Test Case Generation Tool** simplifies the entire workflow, from requirement analysis to comprehensive test case creation.
+Our **AI-Powered Test Case Generation Tool** simplifies the entire workflow, from requirement analysis to comprehensive test case creation on an **editable mind map**.
 
 ✨ **Key Benefits**:
 - Save time with automated test case generation.
 - Achieve high test coverage with expert-driven logic.
 - Customize test cases for your unique needs.
 
-🔗 [**Discover the Tool Here**](https://treeifyai.com)
+🔗 **Try Treeify and Experience the Future of Test Case Design** – [Start Here](https://treeifyai.com)
 
 💡 This repository complements the tool by offering learning resources to help you understand the principles and techniques behind test case design.
 
