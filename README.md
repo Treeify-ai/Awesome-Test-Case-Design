@@ -1,17 +1,30 @@
 
 # 🧪 Awesome Test Case Design
 
-Welcome to the **Awesome Test Case Design**! 🎉 This resource is designed to help QA professionals, developers, and tech enthusiasts master the art and science of test case design. Here, you’ll find foundational concepts, advanced techniques, real-world examples, and innovative tools to take your QA skills to the next level.
-
-Our mission is to empower the QA community with actionable knowledge and resources. 🌟
+Welcome to the **Awesome Test Case Design**! 🎉 This resource is designed to help QA professionals, developers, and tech enthusiasts master the art and science of test case design. Here, you’ll find **foundational concepts, advanced techniques, real-world examples, and innovative tools** to take your QA skills to the next level.
 
 ---
 
 ## 🚀 Unlock Smarter Test Case Design with Treeify
 
-<div align="center">
-<img src="images/logo.jpg" alt="Test Case Design" width="200" >
-</div>
+
+<p align="center">
+  <a href="https://treeifyai.com/">
+    <img src="https://treeifyai.com/_next/image?url=%2Flogo_treeify_slogan2.png&w=384&q=75" width="318px" alt="Treeifyai logo" />
+  </a>
+</p>
+
+<p align="center"><i>Simplify test case design with Treeify on a mind map. </i></p>
+
+
+<p align="center">
+<a href="https://discord.gg/cQB9QDYkt7"> <img src="images/discord.png" width="80px"></a>
+<a href="https://www.reddit.com/r/TreeifyAI/"> <img src="images/reddit.png" width="80px"></a>
+<a href="https://github.com/Treeify-ai/Awsome-Test-Case-Design"> <img src="images/github.png" width="80px"></a>
+<a href="https://medium.com/@lingjt001"> <img src="images/medium.png" width="80px"></a>
+<a href="https://x.com/Archerjsjdjsk"> <img src="images/x.png" width="80px"></a>
+</p>
+
 
 Simplify test case creation with **AI-Powered Test Case Generation Tool**. From requirement analysis to test case generation, Treeify helps you streamline the entire process on an **editable mind map**.
 
@@ -19,15 +32,6 @@ Simplify test case creation with **AI-Powered Test Case Generation Tool**. From 
 - **Automated test case generation**
 - **High test coverage** with expert logic
 - **Customizable** to your project needs
-
-🔗 [Try Treeify Now](https://treeifyai.com) – Start building smarter test cases today.
-
-### 💬 Join the conversation with QA professionals:
-- **[Join our Discord](https://discord.gg/cQB9QDYkt7)** – Chat with QA experts and share tips.
-- **Follow us on Social Media**:
-  - **[Medium](https://medium.com/@lingjt001)** – Read the latest insights on test case design.
-  - **[Twitter](https://x.com/Archerjsjdjsk)** – Stay updated with tips and announcements.
-  - **[Reddit](https://www.reddit.com/r/TreeifyAI/)** – Join discussions and community Q&A.
 
 💡 This repository complements the tool by offering learning resources to help you understand the principles and techniques behind test case design.
 
