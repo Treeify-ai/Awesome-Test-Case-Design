@@ -31,7 +31,7 @@ Simplify your testing workflow with **Treeify: The First AI-Powered Test Case Ge
 
 ### ✨ Key Benefits:
 - **Automated test case generation**
-- **High test coverage** with expert logic
+- **High test coverage and quality** with expert logic
 - **Structure test cases on Mind Map**
 
 💡 This repository complements the tool by offering learning resources to help you understand the principles and techniques behind test case design.
