@@ -21,8 +21,8 @@ Welcome to the **Awesome Test Case Design**! 🎉 This resource is designed to h
 <a href="https://discord.gg/cQB9QDYkt7"> <img src="images/discord.png" width="80px"></a>
 <a href="https://www.reddit.com/r/TreeifyAI/"> <img src="images/reddit.png" width="80px"></a>
 <a href="https://github.com/Treeify-ai/Awsome-Test-Case-Design"> <img src="images/github.png" width="80px"></a>
-<a href="https://medium.com/@lingjt001"> <img src="images/medium.png" width="80px"></a>
-<a href="https://x.com/Archerjsjdjsk"> <img src="images/x.png" width="80px"></a>
+<a href="https://treeifyai.medium.com/"> <img src="images/medium.png" width="80px"></a>
+<a href="https://x.com/treeifyai"> <img src="images/x.png" width="80px"></a>
 </p>
 
 
