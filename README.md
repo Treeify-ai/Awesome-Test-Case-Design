@@ -26,12 +26,13 @@ Welcome to the **Awesome Test Case Design**! 🎉 This resource is designed to h
 </p>
 
 
-Simplify test case creation with **AI-Powered Test Case Generation Tool**. From requirement analysis to test case generation, Treeify helps you streamline the entire process on an **editable mind map**.
+Simplify your testing workflow with **Treeify: The First AI-Powered Test Case Generation Tool on a Mind Map**. Effortlessly transform requirements into test cases while visualizing and refining the process on **an intuitive, editable mind map**.
+
 
 ### ✨ Key Benefits:
 - **Automated test case generation**
 - **High test coverage** with expert logic
-- **Customizable** to your project needs
+- **Structure test cases on Mind Map**
 
 💡 This repository complements the tool by offering learning resources to help you understand the principles and techniques behind test case design.
 
