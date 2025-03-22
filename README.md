@@ -38,16 +38,16 @@ Simplify your testing workflow with **[Treeify: The First AI-Powered Test Case G
 ---
 
 
-### 🤝 **[Join the Treeify Alliance](https://forms.gle/nQKy6mDmp74TPjc9A) and Shape the Future of AI-Driven Testing!**  
+## 🤝 **[Join the Treeify Alliance](https://forms.gle/nQKy6mDmp74TPjc9A) and Shape the Future of AI-Driven Testing!**  
 
 Treeify isn’t just a tool—it’s a **collaborative alliance** where testers, companies, and industry leaders **innovate together**.  
 
-#### 🌟 Why Join?  
+### 🌟 Why Join?  
 ✔ **Exclusive Benefits**: Get **free premium access** and **direct engagement** with the Treeify team.  
 ✔ **Recognition & Exposure**: Contributors are **featured on our main page** and across our platforms (Reddit, X, and more).  
 ✔ **Impact & Influence**: Help refine Treeify by providing **feedback, sharing insights, and engaging with the testing community**.  
 
-#### 👥 Who Can Join?  
+### 👥 Who Can Join?  
 🔹 **QA Professionals** – Get a **free premium account** and connect with top testers.  
 🔹 **Companies** – Enjoy **free premium features** and **one-on-one support** for seamless integration.  
 🔹 **KOLs & Influencers** – Expand your reach as we promote your profile and expertise.  
