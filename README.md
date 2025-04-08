@@ -27,7 +27,7 @@ Welcome to the **Awesome Test Case Design**! 🎉 This resource is designed to h
 </p>
 
 
-Simplify your testing workflow with **[Treeify: The First AI-Powered Test Case Generation Tool on a Mind Map](htpp://treeifyai.com)**. Effortlessly transform requirements into test cases while visualizing and refining the process on **an intuitive, editable mind map**.
+Simplify your testing workflow with **[Treeify: The First AI-Powered Test Case Generation Tool on a Mind Map](htpp://treeifyai.com)**, which ffortlessly transform requirements into test cases **without prompts**. **[Get free premium access HERE.](https://forms.gle/nQKy6mDmp74TPjc9A)** 
 
 #### ✨ Why Choose Treeify?  
 
@@ -42,18 +42,21 @@ Simplify your testing workflow with **[Treeify: The First AI-Powered Test Case G
 
 Treeify isn’t just a tool—it’s a **collaborative alliance** where testers, companies, and industry leaders **innovate together**.  
 
-### 🌟 Why Join?  
-✔ **Exclusive Benefits**: Get **free premium access** and **direct engagement** with the Treeify team.  
-✔ **Recognition & Exposure**: Contributors are **featured on our main page** and across our platforms (Reddit, X, and more).  
-✔ **Impact & Influence**: Help refine Treeify by providing **feedback, sharing insights, and engaging with the testing community**.  
+### 🌟 Benefits?  
+✔ **Free Premium Access**: **[Get free premium access](https://forms.gle/nQKy6mDmp74TPjc9A)** to Treeify’s advanced features at no cost.  
+✔ **Direct Support & Collaboration**: Work closely with the **Treeify team** and receive personalized assistance.  
+✔ **Get Featured**: Your contributions and insights will be **promoted across our Website, Reddit, X, and more**.
+✔ **Build Your Influence**: Grow your profile in the QA community by **sharing your expertise and shaping an innovative tool**.
+✔ **Early Access to New Features**: **Be the first** to explore and test upcoming capabilities.
 
-### 👥 Who Can Join?  
-🔹 **QA Professionals** – Get a **free premium account** and connect with top testers.  
-🔹 **Companies** – Enjoy **free premium features** and **one-on-one support** for seamless integration.  
-🔹 **KOLs & Influencers** – Expand your reach as we promote your profile and expertise.  
+
+### 👥 We are looking for:  
+🔹 **QA Professionals** – Manual or automation, if you work in testing, you’ll get a **free premium account** and connect with top testers.  
+🔹 **Teams & Startups** – Enjoy **free premium features** and **one-on-one support** for your QA process.  
+🔹 **KOLs & Influencers** – Share your insights, and we’ll help **promote your profile and expertise** across our channels.  
 
 🚀 **[Join Today](https://forms.gle/nQKy6mDmp74TPjc9A) and be part of the movement!**  
-💡 Learn more in our **[resource hub](https://github.com/Treeify-ai/Awsome-Test-Case-Design)** and refine your test design skills.  
+💡 **[Share your insights](https://forms.gle/jPNVju8897LVuE6e7)** and expand youe influence start here!
 
 ---
 
