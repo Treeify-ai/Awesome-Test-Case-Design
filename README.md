@@ -45,7 +45,7 @@ Treeify isn’t just a tool—it’s a **collaborative alliance** where testers,
 ### 🌟 Benefits?  
 ✔ **Free Premium Access**: **[Get free premium access](https://forms.gle/nQKy6mDmp74TPjc9A)** to Treeify’s advanced features at no cost.  
 ✔ **Direct Support & Collaboration**: Work closely with the **Treeify team** and receive personalized assistance.  
-✔ **Get Featured**: Your contributions and insights will be **promoted across our Website, Reddit, X, and more**.
+✔ **Get Featured**: Your contributions and insights will be **promoted across our Website, Reddit, X, and more**.   
 ✔ **Build Your Influence**: Grow your profile in the QA community by **sharing your expertise and shaping an innovative tool**.
 ✔ **Early Access to New Features**: **Be the first** to explore and test upcoming capabilities.
 
