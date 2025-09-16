@@ -1,210 +1,188 @@
+<div align="center">
 
-# 🧪 Awesome Test Case Design
+# Awesome Test Case Design — v2
 
-Welcome to the **Awesome Test Case Design**! 🎉 This resource is designed to help QA professionals, developers, and tech enthusiasts master the art and science of test case design. Here, you’ll find **foundational concepts, advanced techniques, real-world examples, and innovative tools** to take your QA skills to the next level.
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](./LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/Treeify-ai/Awesome-Test-Case-Design?style=social)](https://github.com/Treeify-ai/Awesome-Test-Case-Design/stargazers) 
+
+> **Partner with Treeify** — We co-build **real testing content** (mini-projects, playbooks, teaching kits) and co‑market responsibly.  
+> KOLs, teams, and tool makers welcome. **[Join the Partnership Program →](./PARTNERSHIP.md)**
+
+Build **predictable**, **evidence-driven** test design — from ideas to runnable cases with **oracles** and **observability** (logs/metrics/traces).  
+**v2** adds deeper **field experience**, broader **audience coverage**, and ready‑to‑use **templates**, **mini‑projects**, and **AI guardrails**.
 
 ---
 
-## 🚀 Unlock Smarter Test Case Design with Treeify
-
-
 <p align="center">
-  <a href="https://treeifyai.com/">
-    <img src="https://treeifyai.com/_next/image?url=%2Flogo_treeify_slogan2.png&w=384&q=75" width="318px" alt="Treeifyai logo" />
+  <picture>
+    <img alt="Treeify" src="./images/logo_treeify_slogan.png" height="72">
+  </picture>
+</p>
+
+<h2 align="center">Treeify — AI test case design copilot</h2>
+<p align="center">
+  Turn long PRDs and specs into <b>structured, traceable, high-coverage</b> test scenarios—fast.
+</p>
+<p align="center">
+  <a href="https://treeifyai.com?utm_source=github&utm_medium=readme">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+  <a href="mailto:contact@treeifyai.com?subject=Extra%20Free%20Credits">
+    <img alt="Email for extra credits" src="https://img.shields.io/badge/Unlock%20Extra%20Credits-contact@treeifyai.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+<p align="center">
+  ✅ High, visible coverage · ✅ Traceable to requirements · ✅ Mind-map & multi-agent · ✅ Exports: Excel/CSV/XML/XMind, TestCaseLab
+</p>
+<p align="center">
+  <a href="./examples/treeify.gif">
+    <img src="./examples/treeify.gif" alt="Treeify 15-second quick tour" width="720">
   </a>
 </p>
 
-<p align="center"><i>Simplify test case design with Treeify on a mind map. </i></p>
+<p align="center">· · ·</p>
 
 
+## Socials & Community
+
+<p align="center">Follow updates, ask questions, and share feedback.</p>
 
 <p align="center">
-<a href="https://discord.gg/cQB9QDYkt7"> <img src="images/discord.png" width="80px"></a>
-<a href="https://www.reddit.com/r/TreeifyAI/"> <img src="images/reddit.png" width="80px"></a>
-<a href="https://github.com/Treeify-ai/Awsome-Test-Case-Design"> <img src="images/github.png" width="80px"></a>
-<a href="https://treeifyai.medium.com/"> <img src="images/medium.png" width="80px"></a>
-<a href="https://x.com/treeifyai"> <img src="images/x.png" width="80px"></a>
+  <a href="https://x.com/treeifyai">
+    <img src="https://img.shields.io/badge/Follow_on_X-@treeifyai-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow Treeify on X">
+  </a>
+  <a href="https://www.reddit.com/r/TreeifyAI/">
+    <img src="https://img.shields.io/badge/Reddit-r/TreeifyAI-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Join r/TreeifyAI on Reddit">
+  </a>
+  <a href="https://treeifyai.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-@treeifyai-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read Treeify on Medium">
+  </a>
+  <a href="https://discord.gg/cQB9QDYkt7">
+    <img src="https://img.shields.io/badge/Discord-Join_our_server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the Treeify Discord">
+  </a>
+  <a href="https://www.linkedin.com/in/jerry-ling-b9a59a253/">
+    <img src="https://img.shields.io/badge/LinkedIn-Maintainer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Maintainer on LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    Prefer plain links?
+    <a href="https://x.com/treeifyai">X</a> •
+    <a href="https://www.reddit.com/r/TreeifyAI/">Reddit</a> •
+    <a href="https://treeifyai.medium.com/">Medium</a> •
+    <a href="https://discord.gg/cQB9QDYkt7">Discord</a> •
+    <a href="https://www.linkedin.com/in/jerry-ling-b9a59a253/">Maintainer LinkedIn</a>
+  </sub>
 </p>
 
 
-Simplify your testing workflow with **[Treeify: The First AI-Powered Test Case Generation Tool on a Mind Map](htpp://treeifyai.com)**, which ffortlessly transform requirements into test cases **without prompts**. **[Get free premium access HERE.](https://forms.gle/nQKy6mDmp74TPjc9A)** 
-
-#### ✨ Why Choose Treeify?  
-
-✅ **Automated Test Case Generation** – AI-powered efficiency with few clicks
-✅ **High Test Coverage & Quality** – Built with expert logic and AI enhancement
-✅ **Mind Map-Based Structure** – Clear, structured, and visual test cases  
+</div>
 
 ---
 
+## Quick start
 
-## 🤝 **[Join the Treeify Alliance](https://forms.gle/nQKy6mDmp74TPjc9A) and Shape the Future of AI-Driven Testing!**  
+1. Read **[Quickstart](./00-start-here/quickstart.md)** (time‑boxed tracks, role shortcuts).  
+2. Pick a **mini‑project** (e.g., **[Discount Code](./70-mini-projects/checkout-discount-code/brief.md)** or **[Refund Workflow](./70-mini-projects/refund-workflow/brief.md)**).  
+3. Use **MAE** → write **scenarios** → add **cases** → attach **evidence** (msgids, metrics, traces).
 
-Treeify isn’t just a tool—it’s a **collaborative alliance** where testers, companies, and industry leaders **innovate together**.  
-
-### 🌟 Benefits?  
-✔ **Free Premium Access**: **[Get free premium access](https://forms.gle/nQKy6mDmp74TPjc9A)** to Treeify’s advanced features at no cost.  
-✔ **Direct Support & Collaboration**: Work closely with the **Treeify team** and receive personalized assistance.  
-✔ **Get Featured**: Your contributions and insights will be **promoted across our Website, Reddit, X, and more**.   
-✔ **Build Your Influence**: Grow your profile in the QA community by **sharing your expertise and shaping an innovative tool**.   
-✔ **Early Access to New Features**: **Be the first** to explore and test upcoming capabilities.
-
-
-### 👥 We are looking for:  
-🔹 **QA Professionals** – Manual or automation, if you work in testing, you’ll get a **free premium account** and connect with top testers.  
-🔹 **Teams & Startups** – Enjoy **free premium features** and **one-on-one support** for your QA process.  
-🔹 **KOLs & Influencers** – Share your insights, and we’ll help **promote your profile and expertise** across our channels.  
-
-🚀 **[Join Today](https://forms.gle/nQKy6mDmp74TPjc9A) and be part of the movement!**  
-💡 **[Share your insights](https://forms.gle/jPNVju8897LVuE6e7)** and expand youe influence start here!
+> New here? Skim the **[Glossary](./00-start-here/glossary.md)**, then try one MAIN + one EXC path.
 
 ---
 
-## 📖 Table of Contents
-1. [📚 Introduction](#-introduction)
-2. [🔑 Foundational Concepts](#-foundational-concepts)
-3. [💡 Core Test Design Techniques](#-core-test-design-techniques)
-4. [🚀 Advanced Test Case Design](#-advanced-test-case-design)
-5. [🌍 Real-World Applications](#-real-world-applications)
-6. [⚙️ Test Case Optimization](#-test-case-optimization)
-7. [🔐 Non-Functional Test Case Design](#-non-functional-test-case-design)
-8. [🤖 Automation Integration](#-automation-integration)
-9. [⚠️ Edge Case and Negative Testing](#-edge-case-and-negative-testing)
-10. [🛠️ Practical Tools and Methods](#-practical-tools-and-methods)
-11. [📋 Challenges and Case Studies](#-challenges-and-case-studies)
-12. [📈 Testing Trends and Innovations](#-testing-trends-and-innovations)
-13. [🌟 Join Our Community](#-join-our-community)
-14. [🤝 Contributing](#-contributing)
-15. [📜 License](#-license)
+## What’s inside (v2 highlights)
+
+- **Field Notes** — hard‑won patterns, postmortems, before/after coverage.  
+- **Fundamentals** — coverage thinking, flows & states, risk‑based priorities.  
+- **Techniques** — boundary/equivalence, decision tables, state models, pairwise, CRUD grids.  
+- **Scenario Patterns** — MAE, roles/permissions, data lifecycle, cross‑feature.  
+- **API & Contracts** — idempotency, retries, pagination, error taxonomy, schemas.  
+- **Non‑functional** — performance p95/p99, resiliency/timeouts, security, compatibility, a11y, privacy.  
+- **Domain Playbooks** — payments/checkout, messaging, mobile, B2B, i18n, data/ML.  
+- **Cross‑discipline Bridges** — for PMs, Devs, SREs, Security/Compliance, Design/UX.  
+- **Checklists & Gates** — coverage/API/perf/sec/compat/a11y, review gates, metrics, traceability.  
+- **Mini‑projects** — realistic flows with briefs → scenarios → cases (+ evidence bundle).  
+- **AI Augmentation** — prompt guardrails, LLM patterns, human‑in‑the‑loop.  
+- **Tools & Integrations** — observability hooks, mind‑maps, test manager mappings, export templates.  
+- **Teaching Kits** — 60‑min workshop (deck outline + worksheets).  
+- **Community** — contribution ideas, style guide.
 
 ---
 
-## 📚 Introduction
-- **What is Test Case Design?** 📝  
-  Learn why test case design is a critical skill for ensuring high-quality software.
-- **Why Good Test Case Design Matters** ⚡  
-  Discover how effective test cases improve efficiency, enhance coverage, and foster collaboration.
-- **Who is This Repository For?** 👩‍💻👨‍💻  
-  Perfect for manual testers, automation engineers, QA leads, and developers of all experience levels.
+## Folder map (at a glance)
+
+- `00-start-here/` — **Quickstart**, **Glossary**  
+- `05-field-notes/` — **Patterns that worked**, **Postmortems**, **Before→After coverage**  
+- `10-fundamentals/` — **Coverage thinking**, **Flows & states**, **Risk-based prioritization**  
+- `20-techniques/` — **Boundary & equivalence**, **Decision tables**, **State models**, **Pairwise**, **CRUD grids**  
+- `30-scenario-patterns/` — **MAE**, **Roles & permissions**, **Data lifecycle**, **Cross-feature interactions**  
+- `40-api-and-data-contracts/` — **Idempotency & retries**, **Pagination & filtering**, **Error taxonomy**, **Contracts & schemas**  
+- `50-non-functional/` — **Performance p95/p99**, **Resiliency & timeouts**, **Security essentials**, **Compatibility matrix**, **A11y**, **Privacy & compliance**  
+- `55-domain-playbooks/` — **Payments & checkout**, **Messaging & notifications**, **Mobile-first**, **B2B integrations**, **i18n/l10n**, **Data/ML features**  
+- `57-cross-discipline-bridges/` — **For PMs**, **For Developers**, **For SREs**, **For Security/Compliance**, **For Design/UX**  
+- `60-checklists/` — **Functional/API/Perf/Sec/Compat/A11y** reviews  
+- `65-review-gates-metrics-traceability/` — **Review gates**, **Metrics**, **Traceability**  
+- `70-mini-projects/` — `checkout-discount-code/` & `refund-workflow/` (brief → design‑notes → scenarios → cases)  
+- `75-ai-augmentation/` — **Prompt guardrails**, **LLM patterns**, **Human‑in‑the‑loop**  
+- `80-tools-and-integrations/` — **Observability hooks**, **Mind‑maps**, **Test manager mapping**, **Export templates**  
+- `90-community/` — **Contribution ideas**, **Style guide**  
+- `_templates/` — **Technique** and **Checklist** stubs  
+- `LICENSE` — **CC BY‑NC 4.0**
 
 ---
 
-## 🔑 Foundational Concepts
-- **[Introduction to Test Case Design: A Beginner's Guide](1.Foundational%20Concepts/Introduction%20to%20Test%20Case%20Design%20-%20A%20Beginner's%20Guide.pdf)**  
-  A starting point for those new to QA, offering insights into what makes a good test case.  
-  📚 Includes actionable tips and examples.
+## How to use this repo
 
-- **[Key Elements of an Effective Test Case](1.Foundational%20Concepts/Key%20Elements%20of%20an%20Effective%20Test%20Case.pdf)**  
-  Master the structure and components of clear, reusable, and comprehensive test cases.
-
-- **[Common Mistakes in Test Case Design and How to Avoid Them](1.Foundational%20Concepts/Common%20Mistakes%20in%20Test%20Case%20Design%20and%20How%20to%20Aviod%20Them.pdf)**  
-  Avoid common pitfalls and improve the quality of your test cases with practical advice.
+- **Design**: Start with **MAE** (**[pattern](./30-scenario-patterns/main-alt-exception.md)**).  
+- **Decompose**: Apply **[boundary/equivalence](./20-techniques/boundary-and-equivalence.md)** and **[pairwise](./20-techniques/pairwise.md)**.  
+- **Decide**: Prioritize with **[risk‑based](./10-fundamentals/risk-based-prioritization.md)** thinking.  
+- **Observe**: Wire **[observability hooks](./80-tools-and-integrations/observability-hooks.md)** (msgid, err.code, metrics, traces).  
+- **Prove**: Attach an **evidence bundle** in PRs (HAR/JSON/log/metric/trace).  
+- **Map**: If you use TestRail/Xray/Zephyr/ADO, see **[mapping guide](./80-tools-and-integrations/mapping-to-test-managers.md)** and **[export templates](./80-tools-and-integrations/export-templates/README.md)**.
 
 ---
 
-## 💡 Core Test Design Techniques
-Explore widely used techniques with real-world examples:  
-- **[Equivalence Partitioning and Boundary Value Analysis](2.Core%20Test%20Design%20Techniques/Equivalence%20Partitioning%20and%20Boundary%20Value%20Analysis.pdf)**  
-- **[Decision Table Testing](2.Core%20Test%20Design%20Techniques/Decision%20Table%20Testing.pdf)**  
-- **[All-Pairs (Pairwise) Testing](2.Core%20Test%20Design%20Techniques/All-Pairs%20(Pairwise)%20Testing.pdf)**  
-- **[State Transition Testing](2.Core%20Test%20Design%20Techniques/State%20Transition%20Testing.pdf)**  
+## Mini‑projects (start here)
+
+- **Discount Code v1** — [Brief](./70-mini-projects/checkout-discount-code/brief.md) · [Scenarios](./70-mini-projects/checkout-discount-code/scenarios.md) · [Cases](./70-mini-projects/checkout-discount-code/cases.md)  
+- **Refund Workflow v1** — [Brief](./70-mini-projects/refund-workflow/brief.md) · [Design Notes](./70-mini-projects/refund-workflow/design-notes.md) · [Scenarios](./70-mini-projects/refund-workflow/scenarios.md) · [Cases](./70-mini-projects/refund-workflow/cases.md)
 
 ---
 
-## 🚀 Advanced Test Case Design
-For experienced professionals looking to refine their skills:  
-- **[Combinatorial Testing](3.Advanced%20Test%20Case%20Design/Combinatorial%20Testing.pdf)**  
-- **[Test Coverage Strategies](3.Advanced%20Test%20Case%20Design/Test%20Coverage%20Strategies.pdf)**  
-- **[Mutation Testing](3.Advanced%20Test%20Case%20Design/Mutation%20Testing.pdf)**  
+## AI augmentation (safe & useful)
+
+- **[Prompt guardrails](./75-ai-augmentation/prompt-guardrails.md)** — explicit‑only, schema discipline, dedup.  
+- **[LLM patterns](./75-ai-augmentation/llm-patterns-that-help.md)** — structured output, RAG with citations, self‑consistency.  
+- **[Human‑in‑the‑loop](./75-ai-augmentation/human-in-the-loop.md)** — review rubrics and bounded regenerate cycles.
 
 ---
 
-## 🌍 Real-World Applications
-Discover how to apply test design techniques in specific contexts:  
-- **[Designing Test Cases for APIs](4.Real-World%20Applications/Designing%20Test%20Cases%20for%20APIs.pdf)**  
-- **[Designing Test Cases for Mobile Applications](4.Real-World%20Applications/Designing%20Test%20Cases%20for%20Mobile%20Applications.pdf)**  
-- **[Applying Boundary Value Analysis in E-commerce Testing](4.Real-World%20Applications/Applying%20Boundary%20Value%20Analysis%20in%20E-commerce%20Testing.pdf)**  
+## Contribute & partner
+
+- **Contribute**: Start with **[Contribution Ideas](./90-community/contribution-ideas.md)** and the **[Style Guide](./90-community/style-guide.md)**.  
+- **Templates**: `_templates/` has **[technique](./_templates/technique.md)** and **[checklist](./_templates/checklist.md)** stubs.  
+- **Partner**: Co‑build and co‑market with Treeify — **[PARTNERSHIP.md](./PARTNERSHIP.md)**.
 
 ---
 
-## ⚙️ Test Case Optimization
-Learn how to make your test cases leaner and more effective:  
-- **[Test Case Prioritization](5.Test%20Case%20Optimization/Test%20Case%20Prioritization.pdf)**  
-- **[Minimizing Redundancy in Test Suites](5.Test%20Case%20Optimization/Minimizing%20Redundancy%20in%20Test%20Suites.pdf)**  
-- **[Data-Driven Test Case Design](5.Test%20Case%20Optimization/Data-Driven%20Test%20Case%20Design.pdf)**  
+## Partners
 
----
+We co-build practical testing content with selected partners (guides, templates, workshops)—measured, not hype.  
+Want to join? See the **[Partnership Program](./PARTNERSHIP.md)**.
 
-## 🔐 Non-Functional Test Case Design
-Expand your testing beyond functionality:  
-- **[Performance Testing](6.Non-Functional%20Test%20Case%20Design/Performance%20Testing.pdf)**  
-- **[Security Testing](6.Non-Functional%20Test%20Case%20Design/Security%20Testing.pdf)**  
-- **[Usability Testing](6.Non-Functional%20Test%20Case%20Design/Usability%20Testing.pdf)**  
+<p align="left">
+  <a href="https://testcaselab.com/?utm_source=github&utm_medium=readme&utm_campaign=treeify_partners" target="_blank" rel="noopener" aria-label="TestCaseLab">
+    <img src="https://cdn.prod.website-files.com/5fdb50d957cb0340387d581b/676688f1798d0b20b2129688_logo-nav.svg" alt="TestCaseLab" height="66" />
+  </a>
+</p>
 
----
+<sub><strong>TestCaseLab</strong> — co-building mapping/export templates and short guides for syncing scenarios & cases with test management tools, plus occasional community workshops.</sub>
 
-## 🤖 Automation Integration
-Bridge the gap between manual and automated testing:  
-- **[Translating Manual Test Cases into Automation](7.Automation%20Integration/Translating%20Manual%20Test%20Cases%20into%20Automation.pdf)**  
-- **[Integrating Test Cases into CI/CD Pipelines](7.Automation%20Integration/Integrating%20Test%20Cases%20into%20CICD%20Pipelines.pdf)**  
-- **[Tool-Assisted Techniques for Test Case Design]()**  
+> To add your logo: open a PR with an SVG/PNG under `assets/partners/` and a one‑line description.
 
----
 
-## ⚠️ Edge Case and Negative Testing
-Test for robustness by identifying uncommon but impactful scenarios:  
-- **[Why Edge Cases Matter](8.Edge%20Case%20and%20Negative%20Testing/Why%20Edge%20Cases%20Matter.pdf)**  
-- **[Designing Negative Test Cases](8.Edge%20Case%20and%20Negative%20Testing/Designing%20Negative%20Test%20Cases.pdf)**  
-- **[Input Validation Testing](8.Edge%20Case%20and%20Negative%20Testing/Input%20Validation%20Testing.pdf)**  
+## License
 
----
-
-## 🛠️ Practical Tools and Methods
-Optimize your workflow with these innovative methods:  
-- **[Using Mind Maps for Test Case Design](9.Practical%20Tools%20and%20Methods/Using%20Mind%20Maps%20for%20Test%20Case%20Design.pdf)**  
-- **[Leveraging AI for Test Case Automation]()**  
-
----
-
-## 📋 Challenges and Case Studies
-Gain insights from real-world testing scenarios:  
-- **[Balancing Depth and Speed in Agile Testing](10.Challenges%20and%20Case%20Studies/Balancing%20Depth%20and%20Speed%20in%20Agile%20Testing.pdf)**  
-- **[Adapting Test Cases for Legacy Systems](10.Challenges%20and%20Case%20Studies/Adapting%20Test%20Cases%20for%20Legacy%20Systems.pdf)**  
-- **[Reducing Test Volume Without Sacrificing Quality](10.Challenges%20and%20Case%20Studies/Reducing%20Test%20Volume%20Without%20Sacrificing%20Quality.pdf)**  
-
----
-
-## 📈 Testing Trends and Innovations
-Stay ahead with the latest in testing:  
-- **[The Future of Test Case Design](11.Testing%20Trends%20and%20Innovations/The%20Future%20of%20Test%20Case%20Design.pdf)**  
-- **[AI and Predictive Analytics in QA](11.Testing%20Trends%20and%20Innovations/AI%20and%20Predictive%20Analytics%20in%20QA.pdf)**  
-- **[Emerging Techniques in Combinatorial Testing](11.Testing%20Trends%20and%20Innovations/Emerging%20Techniques%20in%20Combinatorial%20Testing.pdf)**  
-
----
-
-## 🤝 Contributing
-We welcome contributions! 🛠️ Please read our [contribution guidelines](CONTRIBUTING.md) to learn how to get involved.
-
----
-
-## 📜 License
-
-This repository is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.  
-
-### What this means:
-- ✅ **You can:**
-  - Use, share, and adapt the content for personal or educational purposes.
-  - Attribute the repository appropriately when using its content.
-- ❌ **You cannot:**
-  - Use the content for any commercial or business purposes.
-  - Redistribute modified or unmodified versions of this content for profit.
-
-For more details, refer to the [full license text](LICENSE).
-
----
-
-### 🚀 Next Steps
-Clone this repository:  
-```bash
-git clone https://github.com/Treeify-ai/Awsome-Test-Case-Design.git
-```
+Creative Commons **Attribution‑NonCommercial 4.0** — **[CC BY‑NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.  
+See **[LICENSE](./LICENSE)** for details.
