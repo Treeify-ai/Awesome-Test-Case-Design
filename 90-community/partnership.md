@@ -1,3 +1,22 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
+
 # Treeify Partnership Program — Co‑build & Co‑market
 
 > A lightweight program for **KOLs/creators**, **product teams/companies**, and **tool partners** who want to **co‑build** high‑value testing content and **co‑market** with Treeify—without hype, with real outcomes.
@@ -87,3 +106,12 @@
 - Or email: **contact@treeify.ai** (use your real contact; brief intro).
 
 We’ll reply with a short scope proposal and dates.
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

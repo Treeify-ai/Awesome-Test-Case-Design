@@ -1,3 +1,22 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
+
 # Pairwise / Combinatorics (Playbook)
 
 > When factors multiply (device × browser × role × payment × locale …), pairwise testing gives you **broad interaction coverage** with **minimal cases**.  
@@ -249,3 +268,12 @@ Use an existing library or tool if available; validate results with a **coverage
 - Scenario Patterns (MAE): `../30-scenario-patterns/main-alt-exception.md`  
 - API contracts & pagination invariants: `../40-api-and-data-contracts/*`  
 - Checklists: `../60-checklists/*`
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

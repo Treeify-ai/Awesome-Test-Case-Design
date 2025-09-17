@@ -1,3 +1,22 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
+
 # Accessibility Review Checklist
 
 > Accessible by default. Measurable at review.  
@@ -266,3 +285,12 @@ Narration:
 - [ ] Evidence attached and archived with the PR.  
 - [ ] Owners signed (Design/UX + Eng + QA).  
 - [ ] Post-merge monitoring includes basic a11y synthetics (axe on key pages).
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

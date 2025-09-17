@@ -1,3 +1,22 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
+
 # Privacy & Compliance
 
 > Privacy is a **product feature** and a **team habit**. This playbook turns regulations and policies into **practical, testable work** you can ship: data maps, retention rules, DSRs, consent, cross-border controls, and evidence.
@@ -300,3 +319,12 @@ system,endpoint/event,fields,purpose,basis,processor,region,retention_days
 - Security Essentials (headers, authn/z, secrets): `./security-essentials.md`  
 - Resiliency & Timeouts (brownouts vs strict failures): `./resiliency-and-timeouts.md`  
 - Performance p95/p99 (budgets for encryption/calls): `./performance-p95-p99.md`
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

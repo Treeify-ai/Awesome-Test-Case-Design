@@ -1,3 +1,22 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
+
 # Risk‑Based Prioritization
 
 > You can’t test everything. You **can** test the *right* things first.  
@@ -169,3 +188,12 @@ R-003,Discount code combinability,business rules,3.5,2.8,9.8,Medium,"decision ta
 - MAE flows → `../30-scenario-patterns/main-alt-exception.md`  
 - Idempotency & retries → `../40-api-and-data-contracts/idempotency-and-retries.md`  
 - Gates & metrics → `../60-checklists/*` and `../65-review-gates-metrics-traceability/*`
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

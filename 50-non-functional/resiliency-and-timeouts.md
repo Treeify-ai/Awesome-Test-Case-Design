@@ -1,3 +1,22 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
+
 # Resiliency & Timeouts
 
 > Systems fail in **unexpected** ways: slow downstreams, partial outages, retry storms, partitions.  
@@ -277,3 +296,12 @@ def call_with_deadline(url, deadline_ms, max_attempts=3):
 - Performance p95/p99: `./performance-p95-p99.md`  
 - Cross-feature interactions & degradation: `../30-scenario-patterns/cross-feature-interactions.md`  
 - Observability hooks (evidence capture): `../80-tools-and-integrations/observability-hooks.md`
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

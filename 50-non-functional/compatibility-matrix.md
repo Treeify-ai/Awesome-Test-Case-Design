@@ -1,3 +1,21 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
 # Compatibility Matrix
 
 > One product, many environments. This playbook shows how to **pick the right matrix**, **keep it small but meaningful**, and **prove compatibility** across devices, browsers, OSes, locales, networks, and integrations.
@@ -299,3 +317,12 @@ evidence: screenshots + HAR + a11y report + console logs
 - Performance p95/p99: `./performance-p95-p99.md`  
 - Security: `./security-essentials.md`  
 - Resiliency & Timeouts: `./resiliency-and-timeouts.md`
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

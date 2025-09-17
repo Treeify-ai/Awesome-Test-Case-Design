@@ -1,3 +1,22 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
+
 # Domain: Payments & Checkout
 
 > People pay, money moves, risks explode. This playbook turns payment complexity into **clear flows, contracts, and evidence** so you can ship confidently across cards, wallets, bank debits, and marketplaces.
@@ -297,3 +316,12 @@ def handle_event(evt):
 - Data Lifecycle (refunds/chargebacks/ledger): `../30-scenario-patterns/data-lifecycle.md`  
 - Cross-feature Interactions (promo × tax × gift card × payment): `../30-scenario-patterns/cross-feature-interactions.md`  
 - Performance/Resiliency (timeouts & p99): `../50-non-functional/performance-p95-p99.md`, `../50-non-functional/resiliency-and-timeouts.md`
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

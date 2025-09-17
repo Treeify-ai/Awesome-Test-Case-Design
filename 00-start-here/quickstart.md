@@ -1,3 +1,22 @@
+
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
 # Quickstart
 
 Welcome! This page gets you productive **today**—with time‑boxed tracks, role shortcuts, and a minimal repo setup. Pick one track, follow the steps, and ship a small improvement you can share.
@@ -150,3 +169,12 @@ Open a PR and complete the **PR template**. Label suggestions: `technique`, `sce
 Exploring AI‑augmented test design? [Treeify](https://treeifyai.com/?utm_source=github&utm_medium=awesome_repo&utm_campaign=readme_hero) can help you turn long PRDs into structured **test objects → scenarios → cases**, exportable to your tools—while you stay in control.
 
 - Contact: **contact@treeifyai.com** (mention “Awesome repo” for early‑user perks).
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

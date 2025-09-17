@@ -1,3 +1,21 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
 # Checkout Discount Code — Brief
 
 > Add a **discount/promo code** capability to checkout that is **predictable**, **auditable**, and **safe** under load and abuse.  
@@ -340,3 +358,12 @@ Evidence: HAR, response JSON, screenshot, trace link
 - Design/UX → `../../57-cross-discipline-bridges/for-design-ux.md`  
 - Metrics → `../../65-review-gates-metrics-traceability/metrics.md`  
 - Traceability → `../../65-review-gates-metrics-traceability/traceability.md`
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

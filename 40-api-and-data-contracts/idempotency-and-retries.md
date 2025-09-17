@@ -1,3 +1,22 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
+
 # Idempotency & Retries (Contract + Playbook)
 
 > Networks fail. Users double‑click. Webhooks replay.  
@@ -292,3 +311,12 @@ ev_001,payments,2025-09-15T12:00:05Z,2025-09-15T12:00:05Z,replayed
 - Pagination & Filtering: `./pagination-and-filtering.md`  
 - Error Taxonomy → UX: `./error-taxonomy.md`  
 - Cross‑feature interactions: `../30-scenario-patterns/cross-feature-interactions.md`
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

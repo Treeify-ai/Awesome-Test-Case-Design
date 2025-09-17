@@ -1,3 +1,22 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
+
 # Domain: Messaging & Notifications
 
 > Right message, right channel, right time. This playbook makes messaging testable across **email, SMS, push, in‑app, and webhooks**—covering contracts, preferences, deliverability, retries, and evidence.
@@ -311,3 +330,12 @@ Edge: <quiet hours, unsubscribes, outage failover, webhook replays>
 - Privacy & Compliance (consent): `../50-non-functional/privacy-and-compliance.md`  
 - Resiliency & Timeouts: `../50-non-functional/resiliency-and-timeouts.md`  
 - Accessibility & i18n: `../50-non-functional/accessibility-a11y.md`, `../55-domain-playbooks/i18n-l10n.md`
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

@@ -1,3 +1,22 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
+
 # For Security/Compliance — Threat → Test Mapping
 
 > Security & privacy are **requirements**, not vibes.  
@@ -317,3 +336,12 @@ Sign-off: <owners>
 - Privacy & Compliance (consent, DSRs): `../50-non-functional/privacy-and-compliance.md`  
 - Resiliency & Timeouts (brownouts, retries): `../50-non-functional/resiliency-and-timeouts.md`  
 - Messaging (security alerts without tracking): `../55-domain-playbooks/messaging-and-notifications.md`
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>

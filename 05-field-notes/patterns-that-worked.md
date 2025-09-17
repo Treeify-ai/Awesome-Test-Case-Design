@@ -1,3 +1,21 @@
+<!-- ===== Treeify Header ===== -->
+<p align="center">
+  <!-- Optional: swap in your logo paths -->
+  <!-- <img src="assets/logo-light.svg" alt="Treeify" height="72"> -->
+</p>
+
+<h3 align="center">Treeify — AI test case design copilot</h3>
+<p align="center">
+  <em>Structured, traceable, high-coverage test design — faster.</em><br>
+  <a href="https://treeifyai.com">treeifyai.com</a>
+</p>
+
+<p align="center">
+  <a href="https://treeifyai.com">
+    <img alt="Try Treeify Free" src="https://img.shields.io/badge/Try%20Treeify%20Free-treeifyai.com-brightgreen?style=for-the-badge">
+  </a>
+</p>
+
 # Patterns That Worked
 
 > Real, repeatable tactics from projects. Each pattern is a **short narrative** you can copy, adapt, and prove with metrics.  
@@ -251,3 +269,12 @@ Set **p95 budgets** per scenario and gate with a lightweight check.
 - Sanitize data and remove confidential details.
 
 Use `_templates/field-note.md` or `_templates/case-study.md`. Thank you for helping others ship better tests.
+
+---
+
+<p align="center">
+  <sub>
+    Built with <a href="https://treeifyai.com">Treeify</a> — AI test case design copilot.<br>
+    <em>Structured, traceable, high-coverage test design — faster.</em>
+  </sub>
+</p>
